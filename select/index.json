@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "I still",
+  "base_artist": "milet",
+  "createdAt": "2026-03-25T17:59:37.736792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "He Thinks I Still Care",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/01_He_Thinks_I_Still_Care_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Still Believe In You",
+      "artist": "Desert Rose Band",
+      "has_synced": true,
+      "path": "select/02_I_Still_Believe_In_You_Desert_Rose_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Still Believe In You",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/03_I_Still_Believe_In_You_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Still Believe In You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/04_I_Still_Believe_In_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Still Believe In You (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/05_I_Still_Believe_In_You_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Still Like Bologna",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/06_I_Still_Like_Bologna_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Still Love You (with Billy Currington)",
+      "artist": "Jessie James Decker",
+      "has_synced": true,
+      "path": "select/07_I_Still_Love_You_(with_Billy_Currington)_Jessie_James_Decker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Still Love You",
+      "artist": "Jessie James Decker",
+      "has_synced": true,
+      "path": "select/08_I_Still_Love_You_Jessie_James_Decker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Still Miss Someone",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/09_I_Still_Miss_Someone_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Still Miss Someone",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/10_I_Still_Miss_Someone_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Still Miss You",
+      "artist": "Keith Anderson",
+      "has_synced": true,
+      "path": "select/11_I_Still_Miss_You_Keith_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Still Sing the Old Songs",
+      "artist": "David Allan Coe",
+      "has_synced": false,
+      "path": "select/12_I_Still_Sing_the_Old_Songs_David_Allan_Coe.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She Thinks I Still Care",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/13_She_Thinks_I_Still_Care_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She Thinks I Still Care",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/14_She_Thinks_I_Still_Care_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Still Can See an Outside World",
+      "artist": "Liars",
+      "has_synced": false,
+      "path": "select/15_I_Still_Can_See_an_Outside_World_Liars.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why I Still Love You",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/16_Why_I_Still_Love_You_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I still",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_I_still_milet.txt"
+    }
+  ]
+}
